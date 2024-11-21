@@ -26,6 +26,6 @@
 <br>
 <br>
 
-<strong>值得注意的是，项目编译的时候可能会出现 本地地址 为不合法的域名，这种情况点击右上角的详情，将选项 不校验合法域名，web-view..... 给勾选就好了</strong>
+<strong>值得注意的是，项目编译的时候可能会出现 本地地址 为不合法的域名，这种情况点击右上角的详情，将选项 不校验合法域名，web-view..... 给勾选就好了</strong><br><br>
 ![image](https://github.com/iszhixiang/WeChat-Mini-Program-List-rendering/blob/main/images/Mini%20Program%20settings.png)
 
