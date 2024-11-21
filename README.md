@@ -12,10 +12,10 @@
 
 来开启本地服务器<br>
 如下图<br><br>
-![image](https://github.com/iszhixiang/WeChat-Mini-Program-List-rendering/blob/main/images/minling.png)
+![image](https://github.com/iszhixiang/images/blob/main/2024_11_21/minling.png)
 <br><br><br>
 成功之后会提示打开了本地服务器的地址<br><br>
-![image](https://github.com/iszhixiang/WeChat-Mini-Program-List-rendering/blob/main/images/Start%20the%20server.png)
+![image](https://github.com/iszhixiang/images/blob/main/2024_11_21/Start%20the%20server.png)
 <hr>
 
 <h2>2,导入项目</h2>
@@ -27,5 +27,5 @@
 <br>
 
 <strong>值得注意的是，项目编译的时候可能会出现 本地地址 为不合法的域名，这种情况点击右上角的详情，将选项 不校验合法域名，web-view..... 给勾选就好了</strong><br><br>
-![image](https://github.com/iszhixiang/WeChat-Mini-Program-List-rendering/blob/main/images/Mini%20Program%20settings.png)
+![image](https://github.com/iszhixiang/images/blob/main/2024_11_21/Mini%20Program%20settings.png)
 
